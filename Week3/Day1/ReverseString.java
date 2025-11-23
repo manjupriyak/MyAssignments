@@ -4,7 +4,7 @@ public class ReverseString {
 
 	public static void reverseString(String str) {
 
-		char[] charArray = str.toCharArray();
+		char[] charArray = 	str.toCharArray();
 		/*
 		 * for(int j=0;j<charArray.length;j++) {
 		 * System.out.println("Converting string to charecter Array " + charArray[j]); }
